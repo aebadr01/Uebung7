@@ -7,6 +7,8 @@ b Alias).
 **Achtung: Zum Erhalt der Punkte für diese Aufgabe muss nur dieses Readme editiert werden, d.h. es sollte KEIN Fork oder Pull request gemacht werden.**
 
 ##A
+Aebischer Adrian - aebadr01
+
 Antoniadis Nadia - nadiaantoniadis
 
 Achermann Laura - lauraelisa
